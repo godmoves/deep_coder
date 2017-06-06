@@ -14,12 +14,11 @@ More Information about the project could be find on my medium article : <a href=
 <li>Tensorflow</li>
 <li>Numpy</li>
 <li>Docopt</li>
-<li>Matplotlib</li>
 </ul>
 
 ## How to train the model
 
- 
+
     $> python train.py
 
 This file will create two new folders. The first one is the logs folder, you can use tensorboard on it, the other one is the checkpoints folder where the progression of the model is saved. A new checkpoint is saved at the end of each epoch.
