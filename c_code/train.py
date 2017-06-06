@@ -8,7 +8,7 @@ from __future__ import print_function
 import tensorflow as tf
 import numpy as np
 import time
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from model import Model
 from logger import Logger
 
